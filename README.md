@@ -46,3 +46,6 @@ SELECT host,user FROM mysql.user;
 CREATE DATABASE beeapp;
 SHOW DATABASES;
 ```
+# 起動
+
+bee run
